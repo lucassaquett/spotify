@@ -1,2 +1,2 @@
 # spotify
-Clone do site spotify para estudos deresposividade com o bootstrap 4
+Clone do site spotify para estudos de resposividade com o bootstrap 4
